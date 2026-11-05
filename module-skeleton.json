@@ -1,0 +1,15 @@
+{
+  "repository": "module-ecommerce-draft-and-assisted-orders-dart-desktop",
+  "capabilityKey": "planned:ecommerce:draft-and-assisted-orders",
+  "presentation": "dart-desktop",
+  "package": "module_ecommerce_draft_and_assisted_orders_dart_desktop",
+  "foundation": "module-boilerplate-dart-desktop",
+  "foundationCommit": "5ccb3f077d7279dad684f2aa24e4c9d27f0d1246",
+  "canonicalPlan": "projects/ecommerce/nextjs/draft-and-assisted-orders.md",
+  "presentationPlan": "projects/ecommerce/features/draft-and-assisted-orders.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "ecommerce"
+  ]
+}
